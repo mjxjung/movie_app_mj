@@ -24,7 +24,8 @@
 }
 
 .movie .movie__title,
-.movie .movie__year {
+.movie .movie__year,
+.movie .movie__rating {
   margin: 0;
   font-weight: 300;
 }
@@ -44,7 +45,8 @@
 }
 
 .movie__genres li,
-.movie .movie__year {
+.movie .movie__year,
+.movie .movie__rating {
   margin-right: 10px;
   font-size: 14px;
 }
